@@ -3,7 +3,7 @@
    <code>Hello there. I am Shanmukha Sainath, working as AI Engineer at KLA Corporation. I have done my Bachelors from Department of Electronics and Electrical Communication Engineering department, IIT Kharagpur.</code>
    <h3>Connect with me:</h3>
    <p>
-      <a href="https://linktr.ee/shanmukh05" target="blank"><img align="center" src="https://github.com/shanmukh05/Machine-Learning-Roadmap/blob/main/linktree.png" alt="@shanmukh05" width="200"/></a>
+      <a href="https://linktr.ee/shanmukh05" target="_blank"><img align="center" src="https://github.com/shanmukh05/Machine-Learning-Roadmap/blob/main/linktree.png" alt="@shanmukh05" width="200"/></a>
    </p>
    <h3>Why I made this?</h3>
    <p>Internet world is huge, so as resources to learn any new things. There are numerous free and paid resources to learn Machine Learning. Having many options in hand confuses and it's difficult to select best one (saying from experience). So, I have collected best resources to get started with Machine Learning and continue career in this field. </p>
@@ -18,25 +18,25 @@
          <details>
             <summary>Details</summary>
             <p></p>
-            <p><a href="https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm">18.06 Linear Algebra</a> course by MIT is the best course to learn basics of Linear Algebra</p>
+            <p><a href="https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.html"target="_blank">18.06 Linear Algebra</a> course by MIT is the best course to learn basics of Linear Algebra</p>
          </details>
          <li>Matrix Algebra</li>
          <details>
             <summary>Details</summary>
             <p></p>
-            <p><a href="https://www.khanacademy.org/math/algebra-home/alg-matrices">Matrices</a> course by Khan Academy is the best course to learn basics of Matrix Algebra</p>
+            <p><a href="https://www.khanacademy.org/math/algebra-home/alg-matrices" target="_blank">Matrices</a> course by Khan Academy is the best course to learn basics of Matrix Algebra</p>
          </details>
          <li>Probability and Statistics</li>
          <details>
             <summary>Details</summary>
             <p></p>
-            <p><a href="https://www.khanacademy.org/math/statistics-probability">Statistics and Probability</a> course by Khan Academy is best course available.</p>
+            <p><a href="https://www.khanacademy.org/math/statistics-probability" target="_blank">Statistics and Probability</a> course by Khan Academy is best course available.</p>
          </details>
          <li>Calculus</li>
          <details>
             <summary>Details</summary>
             <p></p>
-            <p><a href="https://www.khanacademy.org/math/differential-calculus">Differential Calculus</a> is the best course to learn basics of Differential Calculus.</p>
+            <p><a href="https://www.khanacademy.org/math/differential-calculus" target="_blank">Differential Calculus</a> is the best course to learn basics of Differential Calculus.</p>
          </details>
       </ul>
       <li>Programming Fundamentals</li>
@@ -45,7 +45,7 @@
          <details>
             <summary>Details</summary>
             <p></p>
-            <p><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/">6.006 Intoduction to Algorithms</a> is the course by MIT to learn basics of Data Structures and Algorithms.</p>
+            <p><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/" target="_blank">6.006 Intoduction to Algorithms</a> is the course by MIT to learn basics of Data Structures and Algorithms.</p>
          </details>
       </ul>
       <li>Programming Language</li>
@@ -54,7 +54,7 @@
          <details>
             <summary>Details</summary>
             <p></p>
-            <p><a href="https://www.w3schools.com/python/">Python tutorial</a> is best place to learn basic syntax of Python.</p>
+            <p><a href="https://www.w3schools.com/python/"target="_blank">Python tutorial</a> is best place to learn basic syntax of Python.</p>
          </details>
       </ul>
    </ul>
@@ -65,14 +65,14 @@
    <ul>
       <li>Courses</li>
       <ul>
-         <li><a href="https://www.coursera.org/specializations/machine-learning-introduction">Machine Learning Specialization by Andrew Ng (New Course🆕)</a> : Coursera.</li>
-         <li><a href="https://www.udemy.com/course/machinelearning/">Machine Learning A-Z</a> : Udemy.</li>
+         <li><a href="https://www.coursera.org/specializations/machine-learning-introduction"target="_blank">Machine Learning Specialization by Andrew Ng (New Course🆕)</a> : Coursera.</li>
+         <li><a href="https://www.udemy.com/course/machinelearning/"target="_blank">Machine Learning A-Z</a> : Udemy.</li>
       </ul>
       <li>Books</li>
       <ul>
-         <li><a href="http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf">Pattern Recognition and Machine Learning</a> by Christopher Bishop</li>
+         <li><a href="http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf"target="_blank">Pattern Recognition and Machine Learning</a> by Christopher Bishop</li>
          <li><a href="https://www.statlearning.com/">An Introduction to Statistical Learning</a> by Gareth M. James, Daniela Witten, Trevor Hastie and Robert Tibshirani</li>
-         <li><a href="https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf">Hands on Machine Learning with Scikit-Learn and TensorFlow</a> by Aurelien Geron</li>
+         <li><a href="https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf"target="_blank">Hands on Machine Learning with Scikit-Learn and TensorFlow</a> by Aurelien Geron</li>
       </ul>
    </ul>
 </div>
@@ -82,7 +82,7 @@
    <ul>
       <li>Courses</li>
       <ul>
-         <li><a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization by Andrew Ng</a> : Coursera</li>
+         <li><a href="https://www.coursera.org/specializations/deep-learning"target="_blank">Deep Learning Specialization by Andrew Ng</a> : Coursera</li>
          <li><a href="https://atcold.github.io/NYU-DLSP20/">Deep Learning with PyTorch by Yann LeCun</a> : YouTube</li>
          <li><a href="https://course.fast.ai/">Deep Learning with fast.ai by Jeremy Howard</a> : fast.ai</li>
       </ul>
